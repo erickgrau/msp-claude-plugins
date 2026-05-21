@@ -87,10 +87,10 @@ Plus shared skills for MSP terminology, ticket triage, cross-vendor incident cor
 | **SpamTitan** | 🔨 Beta | [spamtitan-mcp](https://github.com/erickgrau/spamtitan-mcp) |
 | **Proofpoint** | 🔨 Beta | [proofpoint-mcp](https://github.com/erickgrau/proofpoint-mcp) |
 | **KnowBe4** | 🔨 Beta | [knowbe4-mcp](https://github.com/erickgrau/knowbe4-mcp) |
-| **HubSpot** | 🔨 Beta | [hubspot-mcp](https://github.com/erickgrau/hubspot-mcp) |
-| **PandaDoc** | 🔨 Beta | [pandadoc-mcp](https://github.com/erickgrau/pandadoc-mcp) |
-| **BetterStack** | 🔨 Beta | [betterstack-mcp](https://github.com/erickgrau/betterstack-mcp) |
-| **PagerDuty** | 🔨 Beta | [pagerduty-mcp](https://github.com/erickgrau/pagerduty-mcp) |
+| **HubSpot** | 🔨 Beta | [hubspot](https://github.com/erickgrau/msp-claude-plugins/tree/main/msp-claude-plugins/hubspot/hubspot) |
+| **PandaDoc** | 🔨 Beta | [pandadoc](https://github.com/erickgrau/msp-claude-plugins/tree/main/msp-claude-plugins/pandadoc/pandadoc) |
+| **BetterStack** | 🔨 Beta | [betterstack](https://github.com/erickgrau/msp-claude-plugins/tree/main/msp-claude-plugins/betterstack/betterstack) |
+| **PagerDuty** | 🔨 Beta | [pagerduty](https://github.com/erickgrau/msp-claude-plugins/tree/main/msp-claude-plugins/pagerduty/pagerduty) |
 
 > Maturity levels: ✅ **Production** — used in real MSP environments with comprehensive coverage. 🔨 **Beta** — functional with core features, feedback welcome. 🚧 **Alpha** — early implementation, expect gaps.
 
